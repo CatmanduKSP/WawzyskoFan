@@ -1,2 +1,1 @@
-# shiny-guide
-WawzyskoFan
+# WawzyskoFan
